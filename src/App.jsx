@@ -46,6 +46,18 @@ function App() {
       <img src="https://i.pinimg.com/originals/f9/ba/23/f9ba232d6b18c80b3a95c1ec8dc1c796.gif" alt="" />
       <p>Full-stack development</p>
     </div>
+    <div className="work-img"data-aos="zoom-in">
+      <img src="https://i.pinimg.com/originals/cd/c3/f8/cdc3f863a7d97ffc033ac5275b927f93.gif" alt="" />
+      <p>MERN development</p>
+    </div>
+    <div className="work-img"data-aos="zoom-in">
+      <img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" alt="" />
+      <p>MEAN development</p>
+    </div>
+    <div className="work-img"data-aos="zoom-in">
+      <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="" />
+      <p>PHP development</p>
+    </div>
   </div>
 
 <center><h1 id='project'>Project Outcomes</h1></center>
