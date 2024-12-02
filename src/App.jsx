@@ -51,14 +51,27 @@ function App() {
 <center><h1 id='project'>Project Outcomes</h1></center>
 
   <div className="project" >
-    <div className="text-container" data-aos="zoom-in"><h1>10+</h1>
-    <p>total project</p>
+    <div className="text-container" data-aos="zoom-in"><h1>40+</h1>
+    <p>projects</p>
     </div>
-    <div className="text-container" data-aos="zoom-in"><h1>7</h1>
-    <p>frontend project</p>
+    <div className="text-container" data-aos="zoom-in"><h1>20</h1>
+    <p>static projects</p>
     </div>
-    <div className="text-container" data-aos="zoom-in"><h1>3</h1>
-    <p>backend project</p>
+    <div className="text-container" data-aos="zoom-in"><h1>10</h1>
+    <p>dynamic project</p>
+    
+  </div>
+  <div className="text-container" data-aos="zoom-in"><h1>3</h1>
+    <p>E-Commerce project</p>
+    
+  </div>
+  <div className="text-container" data-aos="zoom-in"><h1>5</h1>
+    <p>streaming project</p>
+    
+  </div>
+  <div className="text-container" data-aos="zoom-in"><h1>2</h1>
+    <p>Application</p>
+    
   </div>
 </div>
 
@@ -66,22 +79,23 @@ function App() {
   <div className="about" data-aos="fade-right">
  <center>  <h1 >About</h1></center> 
     <p>Welcome , your ultimate destination for building stunning, responsive, and user-friendly websites. In today’s digital world, having an impactful online presence is not just an option—it’s a necessity. That’s where we come in, making website creation seamless, intuitive, and enjoyable for everyone, regardless of their technical expertise.
+    These platforms emphasize responsive design, ensuring websites look and perform well on desktops, tablets, and smartphones. Features like custom domains, integrated hosting, and SEO tools streamline the process of launching and maintaining a website. Many also include additional capabilities such as e-commerce integrations, blogging support, and analytics dashboards to track performance.
 
 </p>
   </div>
   <div className="about-img"><img src="https://wallpapercave.com/wp/wp12356479.jpg" alt="" /></div>
 </div>
-<div className="contact" data-aos="fade-up">
+<div className="contact" >
 <center><h1 id='contact'>Contact</h1></center>
 
   <label htmlFor="">Name</label>
-  <input type="text" placeholder='Enter your Name'/>
+  <input type="text" placeholder=''/>
   <label htmlFor="">Email</label>
 
-  <input type="email" placeholder='Enter your Email'/>  
+  <input type="email" placeholder=''/>  
   <label htmlFor="">Message</label>
 
-  <textarea name="" id="" placeholder='Enter your Message'></textarea>
+  <textarea name="" id="" placeholder=''></textarea>
   <button>Send</button>
 
 </div>

@@ -6,7 +6,6 @@ body {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    background-color: 111926;
 }
 
 .header {
@@ -156,5 +155,8 @@ li {
     }
     .login {
         display: none;
+    }
+    .nav-links a:hover {
+        background: none;
     }
 }
