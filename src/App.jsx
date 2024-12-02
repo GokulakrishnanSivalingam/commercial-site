@@ -48,7 +48,7 @@ function App() {
     </div>
   </div>
 
-<center><h1>Project Outcomes</h1></center>
+<center><h1 id='project'>Project Outcomes</h1></center>
 
   <div className="project" >
     <div className="text-container" data-aos="zoom-in"><h1>10+</h1>
@@ -62,14 +62,28 @@ function App() {
   </div>
 </div>
 
-<div className="about-container">
+<div className="about-container" id='about'>
   <div className="about" data-aos="fade-right">
- <center>  <h1>About</h1></center> 
+ <center>  <h1 >About</h1></center> 
     <p>Welcome , your ultimate destination for building stunning, responsive, and user-friendly websites. In today’s digital world, having an impactful online presence is not just an option—it’s a necessity. That’s where we come in, making website creation seamless, intuitive, and enjoyable for everyone, regardless of their technical expertise.
 
 </p>
   </div>
   <div className="about-img"><img src="https://wallpapercave.com/wp/wp12356479.jpg" alt="" /></div>
+</div>
+<div className="contact" data-aos="fade-up">
+<center><h1 id='contact'>Contact</h1></center>
+
+  <label htmlFor="">Name</label>
+  <input type="text" placeholder='Enter your Name'/>
+  <label htmlFor="">Email</label>
+
+  <input type="email" placeholder='Enter your Email'/>  
+  <label htmlFor="">Message</label>
+
+  <textarea name="" id="" placeholder='Enter your Message'></textarea>
+  <button>Send</button>
+
 </div>
 <div className="footer">
   <p>&copy; CopyRights for our site</p>
