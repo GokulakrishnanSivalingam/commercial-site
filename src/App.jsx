@@ -44,7 +44,7 @@ function App() {
     </div>
     <div className="work-img"data-aos="zoom-in">
       <img src="https://i.pinimg.com/originals/f9/ba/23/f9ba232d6b18c80b3a95c1ec8dc1c796.gif" alt="" />
-      <p>Full-stack development</p>
+      <p>UI/UX Development</p>
     </div>
     <div className="work-img"data-aos="zoom-in">
       <img src="https://i.pinimg.com/originals/cd/c3/f8/cdc3f863a7d97ffc033ac5275b927f93.gif" alt="" />
